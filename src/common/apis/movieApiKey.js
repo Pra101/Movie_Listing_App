@@ -1,1 +1,3 @@
-export const APIKey = "28e1d27e";
+export const APIKey = "ffffff";
+
+// Enter your own APIKey generaterd.
